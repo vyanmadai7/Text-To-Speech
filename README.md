@@ -2,10 +2,10 @@
 A simple Python application that converts text input to speech using the pyttsx3 library. The program listens for user input and speaks it back aloud.
 Features
 
-Converts any text input to speech.
-Customizable speech rate and volume.
-Simple command-line interface.
-Continuous conversation loop until exit.
+Converts any text input to speech
+Customizable speech rate and volume
+Simple command-line interface
+Continuous conversation loop until exit
 
 Requirements
 
